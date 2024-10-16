@@ -1,6 +1,19 @@
-h1{
+/* h1{
     font-size: 160px;
     font-weight: 600;
     transition: 0.5s;
     -webkit-text-stroke: 2px red;
+} */
+
+.three{
+    height:30vh;
+    width:30vw;
+    background-color: red;
+}
+
+.two{
+    height:30vh;
+    width:30vw;
+    background-color: blue;
+    position: absolute;
 }
