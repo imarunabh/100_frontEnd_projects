@@ -55,5 +55,4 @@ body{
 
 #accordion label + input[type="radio"]:checked + .content{
     max-height:400px;
-
 }
